@@ -10,11 +10,6 @@ mohammad.ghani@ftmm.unair.ac.id
 ### Work Experience
 Researcher at Universitas Airlangga, Surabaya
 
-### Books
-<a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
-
-<a href="https://play.google.com/store/books/details?id=BcUYEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=BcUYEQAAQBAJ</a>
-
 ### Personal Websites
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204973352" target="_blank">Scopus Author ID: 57204973352</a>
 
@@ -29,6 +24,11 @@ Researcher at Universitas Airlangga, Surabaya
 <a href="https://www.linkedin.com/in/mohammad-ghani-7b8b0b302/" target="_blank">LinkedIn</a>
 
 <a href="https://sciprofiles.com/profile/mohammadghani" target="_blank">SciProfiles</a>
+
+### Books
+<a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
+
+<a href="https://play.google.com/store/books/details?id=BcUYEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=BcUYEQAAQBAJ</a>
 
 ### Publications
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124003194" target="_blank">Spatial impact on inflation of Java Island prediction using Autoregressive Integrated Moving Average (ARIMA) and Generalized Space-Time ARIMA (GSTARIMA)</a>
