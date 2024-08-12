@@ -15,7 +15,7 @@ Researcher at Universitas Airlangga, Surabaya
 
 <a href="https://play.google.com/store/books/details?id=BcUYEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=BcUYEQAAQBAJ</a>
 
-### Publications
+### Personal Websites
 <a href="https://www.scopus.com/authid/detail.uri?authorId=57204973352" target="_blank">Scopus Author ID: 57204973352</a>
 
 <a href="https://scholar.google.com/citations?user=L_c7x9YAAAAJ&hl=id&authuser=3" target="_blank">Google Scholar Author ID: L_c7x9YAAAAJ</a>
