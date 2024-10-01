@@ -25,6 +25,8 @@ Researcher at Universitas Airlangga, Surabaya
 
 <a href="https://sciprofiles.com/profile/mohammadghani" target="_blank">SciProfiles</a>
 
+<a href="https://rpubs.com/mghani" target="_blank">R Projects</a>
+
 ### Books
 <a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
 
