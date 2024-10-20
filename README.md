@@ -27,7 +27,7 @@ Researcher at Universitas Airlangga, Surabaya
 
 <a href="https://rpubs.com/mghani" target="_blank">RPubs</a>
 
-<a href="https://github.com/mghaniunair" target="_blank">GitHubProjects</a>
+<a href="https://github.com/mghaniunair" target="_blank">GitHub Projects</a>
 
 ### Books
 <a href="https://play.google.com/store/books/details?id=zlatEAAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=zlatEAAAQBAJ</a>
