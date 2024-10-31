@@ -35,8 +35,6 @@ Researcher at Universitas Airlangga, Surabaya
 <a href="https://play.google.com/store/books/details?id=BcUYEQAAQBAJ" target="_blank">https://play.google.com/store/books/details?id=BcUYEQAAQBAJ</a>
 
 ### Publications
-<a href="https://www.sciencedirect.com/science/article/pii/S2215016124004175" target="_blank">Performance Analysis of IMC-PID Controller on PCT-14 Air Pressure Control System</a>
-
 <a href="https://www.sciencedirect.com/science/article/pii/S2215016124003194" target="_blank">Spatial impact on inflation of Java Island prediction using Autoregressive Integrated Moving Average (ARIMA) and Generalized Space-Time ARIMA (GSTARIMA)</a>
 
 <a href="https://doi.org/10.1016/j.jobb.2024.04.001" target="_blank">Kalman filter based on a fractional discrete-time stochastic augmented CoVid-19 model</a>
